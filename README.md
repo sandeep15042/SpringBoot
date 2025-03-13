@@ -1,21 +1,23 @@
-# SpringBoot-Rest-API-Project
-Spring Boot REST API - Employee Management System
-This is a simple Spring Boot REST API project that provides CRUD operations for Employee Management using Spring Boot 3.3.4, Spring Data JPA, Oracle Database, and Lombok.
+# SpringBoot-Rest-API-Project  <br>
+Spring Boot REST API - Employee Management System <br>
+This is a simple Spring Boot REST API project that provides CRUD operations for Employee Management using Spring Boot 3.3.4, Spring Data JPA, Oracle Database, and Lombok. <br>
 
-Features
-Add a new employee
-Get all employees
-Get employee by ID
-Get employees by name
-Get employees by name and salary
-Delete employee by ID
-Update employee data
-Technologies Used
+Features <br>
+-------------<br>
+Add a new employee<br>
+Get all employees<br>
+Get employee by ID<br>
+Get employees by name<br>
+Get employees by name and salary<br>
+Delete employee by ID<br>
+Update employee data<br>
 
-Java 17
-Spring Boot 3.3.4
-Spring Data JPA
-Oracle Database (ojdbc8)
-Maven
-Lombok
-Postman (for API testing)
+Technologies Used<br>
+------------------------<br>
+Java 17<br>
+Spring Boot 3.3.4<br>
+Spring Data JPA<br>
+Oracle Database (ojdbc8)<br>
+Maven<br>
+Lombok<br>
+Postman (for API testing)<br>
